@@ -9,14 +9,10 @@ The primary solution are in the different jupyter notebooks. They contain both t
 In each directory there is a `requirements.txt` with the required libraries.
 
 
-## special characteristics
-- 3.1: Describes our algorithm + also applies it to the dataset 
-- 3.2: Contains (k-anonymity + t-closeness) and (k-anonymity + l-diversity)
-- 3.3: -
-- 3.4: -
-
-
 ## Group Members
+Note: Max Bause decided on joining our team for #Assignment 4-5
+
 - Julius Porbeck
 - Emirkan Toplu
 - Ahmad Kharoub
+- Max Bause
